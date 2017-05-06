@@ -1,0 +1,1 @@
+豆瓣的一个小爬虫。基于python3.5的requests和beautifulsoup库。
